@@ -1,1 +1,0 @@
-const loader=new Loader({id:"loader"});NProgress.start(),window.addEventListener("load",function(){loader.done(),NProgress.done()});
